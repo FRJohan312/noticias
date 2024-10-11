@@ -47,7 +47,7 @@ article{
 
 .header_hr{
     width: 60%;
-    color: blueviolet;
+    color: aqua;
 }
 
 .profile-container{
@@ -60,7 +60,6 @@ article{
 .profile-container img{
     width: 300px;
     height: 300px;
-
 }
 
 .profile-container h2{
